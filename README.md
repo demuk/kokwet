@@ -1,2 +1,3 @@
 # kokwet
-a django blog webapp
+
+Kokwet is a blogging webapp built using Django
